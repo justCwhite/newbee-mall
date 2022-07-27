@@ -13,11 +13,11 @@ package ltd.newbee.mall.common;
  * @qq交流群 796794009
  * @email 2449207463@qq.com
  * @link https://github.com/newbee-ltd
- * @apiNote 常量配置
+ * @apiNote 常量配置 v1
  */
 public class Constants {
     //public final static String FILE_UPLOAD_DIC = "/opt/image/upload/";//上传文件的默认url前缀，根据部署设置自行修改
-    public final static String FILE_UPLOAD_DIC = "/opt/upload/";//上传文件的默认url前缀，根据部署设置自行修改
+    public final static String FILE_UPLOAD_DIC = "/opt/uploa";//上传文件的默认url前缀，根据部署设置自行修改
 
     public final static int INDEX_CAROUSEL_NUMBER = 5;//首页轮播图数量(可根据自身需求修改)
 
